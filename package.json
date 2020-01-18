@@ -1,0 +1,29 @@
+{
+  "name": "surakarta-cloud-functions",
+  "version": "1.0.0",
+  "description": "Cloud functions for surakarta-app's backend (Firebase)",
+  "main": "src/index.js",
+  "dependencies": {
+    "firebase-admin": "^8.9.1",
+    "firebase-functions": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurakartaArcade/surakarta-cloud-functions.git"
+  },
+  "keywords": [
+    "Firebase",
+    "Surakarta",
+    "Cordova"
+  ],
+  "author": "Shukant K. Pal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SurakartaArcade/surakarta-cloud-functions/issues"
+  },
+  "homepage": "https://github.com/SurakartaArcade/surakarta-cloud-functions#readme"
+}
